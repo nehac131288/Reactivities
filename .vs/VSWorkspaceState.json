@@ -1,9 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\API",
     "\\client-app",
+    "\\client-app\\app",
+    "\\client-app\\features",
+    "\\client-app\\features\\activities",
+    "\\client-app\\features\\nav",
     "\\client-app\\public",
+    "\\client-app\\public\\assets",
     "\\client-app\\src"
   ],
   "SelectedNode": "\\client-app",
