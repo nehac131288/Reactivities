@@ -3,13 +3,13 @@
     "",
     "\\client-app",
     "\\client-app\\app",
-    "\\client-app\\features",
+    "\\client-app\\app\\api",
+    "\\client-app\\app\\models",
     "\\client-app\\features\\activities",
     "\\client-app\\features\\nav",
-    "\\client-app\\public",
     "\\client-app\\public\\assets",
     "\\client-app\\src"
   ],
-  "SelectedNode": "\\client-app",
+  "SelectedNode": "\\client-app\\src\\activityStore.ts",
   "PreviewInSolutionExplorer": false
 }
