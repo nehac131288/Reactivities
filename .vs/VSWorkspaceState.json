@@ -5,9 +5,6 @@
     "\\client-app\\app",
     "\\client-app\\app\\api",
     "\\client-app\\app\\models",
-    "\\client-app\\features\\activities",
-    "\\client-app\\features\\nav",
-    "\\client-app\\public\\assets",
     "\\client-app\\src"
   ],
   "SelectedNode": "\\client-app\\src\\activityStore.ts",
